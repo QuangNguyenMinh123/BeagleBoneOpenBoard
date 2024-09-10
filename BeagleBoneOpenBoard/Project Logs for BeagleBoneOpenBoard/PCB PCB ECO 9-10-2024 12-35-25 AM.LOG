@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=S1 Old Footprint=SW_TL1107BF130WQ New Footprint=SW_TL1105SPF160Q
+Change Component Comment : Designator=S1 Old Comment=TL1107BF130WQ New Comment=TL1105SPF160Q
+Change component parameters: Designator = "S1" ("S1"); Footprint = "SW_TL1107BF130WQ"; UniqueID = "\UKXTJGZW" ("\UKXTJGZW")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TL1105SPF160Q/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TL1105SPF160Q/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
