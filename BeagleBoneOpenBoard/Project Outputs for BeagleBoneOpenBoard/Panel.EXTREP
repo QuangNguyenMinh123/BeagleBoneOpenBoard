@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Panel.GBR   9/16/2024  9:53:15 PM
+Gerber File Extension Report For: Panel.GBR   9/17/2024  8:52:30 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -23,7 +23,5 @@ Layer Extension     Layer Description
 .GPB                Bottom Pad Master                       
 .1                  Dielectric 1                            
 .GML                Multi-Layer                             
-.GD1                Drill Drawing                           
-.GG1                Drill Guide                             
 .GM                 Profile                                 
 ------------------------------------------------------------------------------------------
